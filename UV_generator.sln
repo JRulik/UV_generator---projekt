@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "UV_generator", "UV_generator\UV_generator.pyproj", "{E502AD19-9CA7-4E85-9BF1-2138756FFEFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E502AD19-9CA7-4E85-9BF1-2138756FFEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E502AD19-9CA7-4E85-9BF1-2138756FFEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4900691B-A428-4B7B-9A63-C447585AC382}
+	EndGlobalSection
+EndGlobal
